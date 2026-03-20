@@ -1,0 +1,6 @@
+{
+    "clangd.checkUpdates": true,
+    "cmake.additionalCompilerSearchDirs": [
+        "/opt/gcc-snapshot/bin/"
+    ]
+}
