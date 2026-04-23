@@ -1,0 +1,7 @@
+﻿#if defined(_WIN32)
+    // Windows-specific code (32-bit and 64-bit)
+#elif defined(__linux__)
+    // Linux-specific code
+#elif defined(__APPLE__)
+    // macOS-specific code
+#endif

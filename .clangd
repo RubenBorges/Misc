@@ -1,2 +1,4 @@
 CompileFlags:
-  Add: [-std=c++2c, -Wall, -Wextra]
+  Add: [
+    -std=c++23, -Wall, -Wextra, -Werror #-I/home/boopy/dev/Projects/workspace/include
+    ]
