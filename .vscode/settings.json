@@ -2,5 +2,6 @@
     "clangd.checkUpdates": true,
     "cmake.additionalCompilerSearchDirs": [
         "/opt/gcc-snapshot/bin/"
-    ]
+    ],
+    "livePreview.defaultPreviewPath": "/serial.html"
 }
